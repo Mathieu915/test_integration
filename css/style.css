@@ -1,0 +1,60 @@
+header{
+    display: flex;
+
+}
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+header nav ul li{
+    margin-left: 15px;
+}
+
+#secForm{
+    padding: 150px;
+    background-image: url("../img/photo-bandeau (2).jpg");
+    margin-bottom: 20px;
+}
+
+#secForm form{
+    background: black;
+    padding : 100px;
+}
+
+#secForm form label{
+    color: white;
+    opacity: 100%;
+}
+
+#secForm form h2{
+    color: white;
+    text-align: center;
+}
+
+#corps{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+#presentation{
+    display: flex;
+    flex-wrap: wrap;
+    flex : 2 2 0px;
+}
+
+article{
+    display : flex;
+    flex-wrap: wrap;
+    flex: 1 1 0px;
+}
+
+#cartes{
+    display: flex;
+}
+
+
+
+
